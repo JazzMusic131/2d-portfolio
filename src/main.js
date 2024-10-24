@@ -114,7 +114,7 @@ k.scene('main', async () => {
 
     k.onUpdate(() => {
         //k.camPos(player.pos.x, player.pos.y + 100);
-        k.camPos(player.pos.x + 100, player.pos.y + 50);
+        k.camPos(player.pos.x, player.pos.y);
     });
 
     k.onMouseDown((mouseBtn) => {
