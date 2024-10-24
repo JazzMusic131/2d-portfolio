@@ -29,7 +29,7 @@ export const dialogueData = {
   resume: `This is my resume; I've been updating it as of late!
   Learn more about what I've done at my <a href="https://www.linkedin.com/in/james-sudimak-62091410a" target="__blank">LinkedIn profile</a> or on my <a href="https://jsudimak.com/webdev" target="__blank">website</a>!`,
   degree: `This is my Associate of Science Degree from Delaware Technical Community College. It's for Computer Information Systems, but I ended up being a web developer!
-  My time at Del Tech did not go to waste however; it provided me with a great foundation.`,
+  My time at Del Tech did not go to waste however, as it provided me with a great foundation.`,
   endtable: `This is my alarm clock. You best believe it's on full blast at 7:30AM!
   It <em>usually</em> works.`,
   bed: `It's just my bed; don't get too excited.`,
@@ -37,13 +37,13 @@ export const dialogueData = {
   Right now, the SNES and GameCube are hooked up, two consoles I grew up playing fondly.`,
   jazzmage: `Meet the Prince of Darkness! He represents my musician side since this spritesheet doesn't contain anything music-related (frown).
   I went to music school for jazz drums at The New School for Jazz for a couple years. Those two years were essential for me as a musician and as a maturing adult. I still play and compose music whenever the inspiration strikes!`,
-  books: `This is my bookshelf! I like to read in theory, but I'm more of an audiobook kind of guy. Lately, I've been checking out memiors of musicians: Serj Tankian, Dave Grohl, Phil Collins.
+  books: `This is my bookshelf! I like to read in theory, but I'm more of an audiobook kind of guy. Lately, I've been checking out memoirs of musicians: Serj Tankian, Dave Grohl, Phil Collins.
   My favorite book? The Autobiography of Miles Davis. Wild!!`,
   window: `What a beautiful day in Philadelphia! It isn't my stomping ground, but it's a place I've called home since 2019.`,
   couch: `This is where I relax and watch movies. I'm a film buff who runs a side hustle called <a href="https://oscarguyhere.com" target="__blank">Oscar Guy Here</a>, so I spend a lot of my time between here and the movie theater to catch up on the latest developments in film!`,
   table: `Just a coffee table. I put drinks here, sometimes food, sometimes my feet ¯\\_(ツ)_/¯`,
   movies: `What's in here now? ... Ah! Punch Drunk Love (2002) directed by Paul Thomas Anderson. Classic! Still Adam Sandler's best performance (sorry Uncut Gems stans)!`,
-  fridge: `This is my fridge where I keep perishable consumables like a standard human. Right not I'm chilling some cold brew in here.
+  fridge: `This is my fridge where I keep perishable consumables like a standard human. Right now I'm chilling some cold brew in here.
   (Why does it have to take 24 hours?!)`,
   exit: `If you want to exit James Sudimak's 2D portfolio, just close the tab.
   Thanks for stopping in!!`
