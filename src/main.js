@@ -23,7 +23,7 @@ k.loadSprite('spritesheet', './spritesheet.png', {
 
 //k.loadSprite('map', './map-example.png');
 k.loadSprite('map', './map.png');
-k.setBackground(k.Color.fromHex('#5ba675'));
+k.setBackground(k.Color.fromHex('#303030'));
 
 k.scene('main', async () => {
 
